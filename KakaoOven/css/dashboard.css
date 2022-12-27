@@ -365,6 +365,51 @@ header{
     cursor: pointer;
 }
 
+.container-footer{
+    margin: 0px 85.5px;
+    padding: 0px 15px;
+}
+
+.div-footer{
+    width: 100%;
+    height: 61px;
+}
+
+.div-footer2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+hr{
+    margin: 20px 0px;
+    border-top: 1px solid #eee;
+}
+.footer-a{
+    color: #3498db;
+
+    cursor: pointer;
+}
+
+.footer-a:hover{
+    color: #ccc;
+}
+
+.footer-a2{
+    color: #3498db;
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+}
+
+.footer-a2:hover{
+    color: #ccc;
+}
+
+.div-footer3{
+    font-size: 85%;
+}
 
 
 
