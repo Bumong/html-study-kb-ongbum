@@ -1,0 +1,165 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #202124;
+}
+
+body {
+    margin: 0px;
+}
+
+.header-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px;
+    
+    height: 60px;
+}
+
+.header1 {
+    
+}
+
+.header-left1 {
+    padding: 5px;
+    margin: 0px 5px 0px 15px;
+
+    font-size: 14px;
+}
+
+.header-left2 {
+    padding: 5px;
+    margin: 0px 5px;
+}
+.header2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 4px 0px 32px;
+    width: 290px;
+    height: 48px;
+    
+}
+
+.header-right1{
+    height: 24px;
+
+    font-size: 13px;
+    line-height: 2;
+}
+
+.header-right2{
+    padding-left: 15px;
+    height: 24px;
+
+    font-size: 13px;
+    line-height: 2;
+}
+
+.header-right3{
+    padding: 0px 10px 0px 15px;
+    color: black;
+}
+
+/* .fa-list-ul {
+    color: black;
+} */
+
+.header-right4{
+    border-radius: 3px;
+    margin-left: 10px;
+    border: 1px;
+    padding: 9px 23px;
+    height: 36px;
+
+    font-size: 14px;
+
+    background-color: #1a73e8;
+    color: #fff;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 400px;
+}
+
+.main2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width: 600px;
+}
+
+.search-img {
+    
+}
+
+.main-search {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+    border: 1px solid #b3aaaa8f;
+    border-radius: 30px;
+    width: 582px;
+    height: 44px;
+}
+
+.fa-sharp {
+    margin-left: 17px;
+
+    width: 14px;
+    height: 14px;
+
+    color: #b3aaaa8f;
+}
+
+.input {
+    border: none;
+
+    outline: none;
+
+    margin-left: 20px;
+    width: 403px;
+    height: 34px;
+}
+
+.fa-microphone {
+    margin-left: 20px;
+}
+
+.fa-camera {
+    margin-left: 20px;
+}
+
+.main-bottom {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 400px;
+    height: 58px;
+}
+
+.sub-search {
+    
+    height: 36px;
+
+    padding: 0px 16px;
+    background-color: #f1f1f3;
+}
+
+
+
+
+
